@@ -1,0 +1,14 @@
+[package]
+name = "ironstorm"
+version = "0.1.0"
+authors = ["Mohammed El Batya"]
+license = "MIT OR Apache-2.0"
+description     = "Lightning fast auto completion, type ahead suggestion engine."
+documentation   = "https://github.com/forgemo/ironstorm/blob/master/README.md"
+homepage        = "https://github.com/forgemo/ironstorm"
+repository      = "https://github.com/forgemo/ironstorm"
+readme          = "README.md"
+keywords        = ["lookup", "suggestion", "typeahead",  "completion", "engine"]
+
+
+[dependencies]
